@@ -1,0 +1,34 @@
+{
+   
+}
+.bottom-left {
+    position: absolute;
+    bottom: 250px;
+    left: 40px;
+    font-size: 20px;
+    text-align: justify;
+    color: white;
+    display: inline-block;
+
+}
+
+.top-left {
+    position: absolute;
+    top: 150px;
+    left: 40px;
+    font-size: 80px;
+    color: white
+}
+
+.bottom-right1 {
+    position: absolute;
+    bottom: 80px;
+    right: 1200px;
+    font-size: 80px;
+}
+.bottom-right2 {
+    position: absolute;
+    bottom: 80px;
+    right: 1000px;
+    font-size: 80px;
+}

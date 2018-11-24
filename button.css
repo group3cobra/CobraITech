@@ -1,0 +1,27 @@
+.button {
+    padding: 16px 32px;
+    font-size: 16px;
+    margin: 4px 2px;
+   font-color: violet;
+   
+}
+
+.button1 {
+    background-color: gold; 
+    color: black; 
+    border: 2px solid gold;
+}
+
+.button1:hover {
+    background-color: gold;
+    color: violet;
+}
+.button2 {
+    background-color: violet; 
+    color: black; 
+    border: 2px solid violet;
+}
+
+.button2:hover {
+    background-color: violet;
+    color: gold;
